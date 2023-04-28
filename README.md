@@ -5,6 +5,7 @@ Stack: Python | Django | Django REST Framework | PosgreSQL | Docker | Nginx | Li
 
 Contacts:
 
+<a href="mailto:dreadnought26@gmail.com"><img src="gmail.svg" height="32"></a>
 
 <!--
 **MrHyde126/MrHyde126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
