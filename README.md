@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋 I'm Igor. Python developer.
+Yandex.Prakticum student
+
+Stack: Python | Django | Django REST Framework | PosgreSQL | Docker | Nginx | Linux | HTML | CSS | Bootstrap
+
+Contacts:
+
 
 <!--
 **MrHyde126/MrHyde126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
