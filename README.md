@@ -1,9 +1,9 @@
-### Hi 👋 I'm Igor. Python developer.
+## Hi 👋 I'm Igor. Python developer.
 Yandex.Prakticum student
 
-Stack: Python | Django | Django REST Framework | PosgreSQL | Docker | Nginx | Linux | HTML | CSS | Bootstrap
+### Stack: Python | Django | Django REST Framework | PosgreSQL | Docker | Nginx | Linux | HTML | CSS | Bootstrap
 
-Contacts:
+### Contacts:
 
 <a href="mailto:dreadnought26@gmail.com"><img src="gmail.png" height="32"></a>
 <a href="https://t.me/mrhyde126"><img src="telegram.png" height="32"></a>
