@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Igor. Python developer.
 Yandex.Prakticum graduate
 
-### Stack: Python | Django | Django REST Framework | PosgreSQL | Docker | Nginx | Linux | HTML | CSS | Bootstrap
+### Stack: Python | Django | Django REST Framework | SQLAlchemy | PosgreSQL | Docker | Nginx | Linux | HTML | CSS | Bootstrap
 
 ### Contacts:
 
